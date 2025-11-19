@@ -4,9 +4,11 @@
 
 ## Linux System
 
+## Linux github
+
 I love **Linux Class**
 I also love _Web Class_
-"Git 실습중"
-I rather love **_Blockchain Class_**
+<font color="yellow">hello world</font>
+<font color="pink">linux</font>
 
 ### <font color="red"> Final Exam: December 11th, 2024</font>
